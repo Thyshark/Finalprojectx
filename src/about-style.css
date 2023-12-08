@@ -1,0 +1,32 @@
+/* src/about.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    text-align: center;
+    padding: 2em;
+    background-color: #f5f5f5;
+  }
+  
+  section {
+    padding: 2em;
+    margin: 2em 0;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  /* Additional styling for specific sections */
+  #mission {
+    background-color: #e0f7fa; /* Light Blue */
+  }
+  
+  #team {
+    background-color: #c8e6c9; /* Light Green */
+  }
+  
+  #history {
+    background-color: #ffe0b2; /* Amber */
+  }
+  
